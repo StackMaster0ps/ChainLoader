@@ -81,9 +81,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For further information or questions:
 
-- **Email:** [your-email@example.com](mailto:stackmasterops@proton.me)
-- **Twitter:** [@yourhandle](https://x.com/SZstack)
-- **Website:** [www.yourwebsite.com](https://www.rek0n.xyz)
+- **Email:** [StackMasterSecOps@Proton.me](mailto:stackmasterops@proton.me)
+- **Twitter:** [@SZtack](https://x.com/SZstack)
+- **Website:** [https://rek0n.xyz](https://www.rek0n.xyz)
 
 ---
 
