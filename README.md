@@ -9,4 +9,4 @@
 
 
 ### About:
-[ ASM ] Based BIOS/UEFI ChainLoader
+[ ASM ] Based BIOS/UEFI ChainLoader - A theorized and illuzive 'HolyGrail ov Code', this sequence of Assembly instructions hides in the BootSector of the before the OS-Loads. It navigates through the 'Side-Chain' of the system and would, 'Theoretically' drop a 'Root-Kit' into the kernel. It lives in several Bytes of memory inside of the Boot-Process, making recovery or re-install impossible.
