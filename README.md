@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For further information or questions:
 
 - **Email:** [StackMasterSecOps@Proton.me](mailto:stackmasterops@proton.me)
-- **Twitter:** [@SZtack](https://x.com/SZstack)
+- **Twitter:** [@SZstack](https://x.com/SZstack)
 - **Website:** [https://rek0n.xyz](https://www.rek0n.xyz)
 
 ---
